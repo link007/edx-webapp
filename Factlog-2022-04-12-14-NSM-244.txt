@@ -1,0 +1,10 @@
+----------------------------------------
+INICIANDO PROCESO DE TIMBRADO DE CFDI: 12/04/2022 04:42:35 p. m.
+----------------------------------------
+    ****************************************
+    START TIMBRANDO DE enNumero: 10722207, nomCFDCompId: 32690, 12/04/2022 04:42:35 p. m.
+        NSM_10722207_32690_20220412.txt,04:42 p. m.,Error 182 al timbrar: 'NOM182; El atributo CuentaBancaria no cumple con la longitud de 10, 11, 16 Ã³ 18 posiciones.'
+    END TIMBRANDO DE enNumero: 10722207, nomCFDCompId: 32690, 12/04/2022 04:42:37 p. m.
+----------------------------------------
+FINALIZACION PROCESO DE TIMBRADO DE CFDI: 12/04/2022 04:42:37 p. m.
+----------------------------------------
